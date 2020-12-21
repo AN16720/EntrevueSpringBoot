@@ -1,4 +1,4 @@
-package com.example.entrevueSpringBoot.models;
+package com.example.entrevueSpringBoot.Models;
 
 import lombok.Getter;
 import lombok.Setter;

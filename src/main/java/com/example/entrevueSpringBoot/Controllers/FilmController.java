@@ -1,7 +1,7 @@
-package com.example.entrevueSpringBoot.controllers;
+package com.example.entrevueSpringBoot.Controllers;
 
 import com.example.entrevueSpringBoot.Service.FilmService;
-import com.example.entrevueSpringBoot.models.Film;
+import com.example.entrevueSpringBoot.Models.Film;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

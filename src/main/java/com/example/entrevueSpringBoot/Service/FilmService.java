@@ -1,7 +1,7 @@
 package com.example.entrevueSpringBoot.Service;
 
 import com.example.entrevueSpringBoot.Repository.FilmRepository;
-import com.example.entrevueSpringBoot.models.Film;
+import com.example.entrevueSpringBoot.Models.Film;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
